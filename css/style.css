@@ -163,7 +163,7 @@ button {
     align-items: center;
     justify-content: space-around;
     height: 637px;
-    background-image: url("/assets/IMG_1334_72dpi_RGB_\ 1.png")
+    background-image: url("../assets/IMG_1334_72dpi_RGB_\ 1.png");
 }
 
 .learn_more {
